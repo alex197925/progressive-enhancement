@@ -5,6 +5,10 @@
   text-decoration: none;
 } */
 
+html {
+  font-family: "IBM Plex Serif", serif;
+}
+
 body {
   max-width: 90%;
   margin: 0 auto;

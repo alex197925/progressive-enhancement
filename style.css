@@ -38,6 +38,34 @@ p {
   font-style: italic;
 }
 
+table {
+  width: 40%;
+}
+
+td {
+  padding: 10px;
+}
+
+tr:nth-child(1) {
+  background-color: gray;
+}
+
+tr:nth-child(2) {
+  background-color: #fff;
+}
+
+tr:nth-child(3) {
+  background-color: gray;
+}
+
+tr:nth-child(4) {
+  background-color: #fff;
+}
+
+tr:nth-child(5) {
+  background-color: gray;
+}
+
 a:link {
   text-decoration: none;
 }

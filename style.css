@@ -1,4 +1,12 @@
 /** @format */
+body {
+  max-width: 90%;
+  margin: 0 auto;
+  background-image: url("https://cdn.pixabay.com/photo/2019/04/10/12/40/watercolour-4117017_1280.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
 
 p {
   font-family: serif;

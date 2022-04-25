@@ -1,12 +1,31 @@
 /** @format */
 
+p {
+  font-family: serif;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+  color: #333333;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
 .read {
   list-style-type: none;
 }
 
+ul:nth-of-type(1) {
+  list-style-type: auto;
+}
+
+ul li {
+  padding-bottom: 10px;
+}
+
 .hovertext {
   position: relative;
-  border-bottom: 1px dotted black;
 }
 
 .hovertext:before {
